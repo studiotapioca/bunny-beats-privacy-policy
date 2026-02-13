@@ -1,6 +1,6 @@
 # Privacy Policy for Bunny Beats
 
-_Last updated: 2026 Feb 3_
+_Last updated: 2026 Feb 13_
 
 Studio Tapioca, LLC does not collect, store, or process personal data from players of **Bunny Beats**, except as described below.
 
@@ -21,6 +21,7 @@ Bunny Beats includes an **optional feedback form** that players may choose to su
 - Written feedback or comments  
 - Bug reports  
 - Contact information (such as an email address), if you choose to include it  
+- Steam ID & username  
 
 This information is used solely for the purpose of reviewing feedback and improving the game. Submission of personal information is optional, and no information is required to play the game.
 
